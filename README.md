@@ -38,7 +38,7 @@ between π and probability. A famous recreation of this experiment is widely bel
 be a hoax, which relates this theorem with importance of peer review in Mathematics.
 ```
 
-This project was co-authored by (Julia Januchowski](https://github.com/juliajanu)
+This project was co-authored by [Julia Januchowski](https://github.com/juliajanu)
 
 
 ### Game Chromatic Number
